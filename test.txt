@@ -1,0 +1,79 @@
+Technical Test for .NET Backend Developer
+
+Instructions:
+1. Complete all sections of the test.
+2. Provide clear and concise explanations for each answer.
+3. You may use any resources necessary, but please do not copy-paste code without
+understanding it.
+4. Upload your completed solutions to a GitHub repository and share the link.
+5. Use SOLID principles throughout your development.
+6. Implement at least one architectural pattern and at least two design patterns
+(excluding the Singleton pattern).
+
+Section 1: C# Programming
+1. Create a C# class called Employee with the following properties:
+o Id (int)
+o Name (string)
+o CurrentPosition (int)
+o Salary (decimal)
+Add a method to this class that calculates a yearly bonus based on the salary
+and current position. The bonus is 10% of the salary for regular employees
+and 20% for managers.
+Additionally:
+o There can be many types of "managers" within the company.
+o An employee can have a history of different positions during their tenure
+with the company.
+Create a class called PositionHistory with the following properties:
+o EmployeeId (int)
+o Position (string)
+o StartDate (DateTime)
+o EndDate (DateTime?)
+Link this history to the Employee class to track the different positions an
+employee has held.
+
+Section 2: ASP.NET Core
+1. Create a simple ASP.NET Core Web API with the following endpoints:
+
+o GET /api/employees - Returns a list of all employees.
+o GET /api/employees/{id} - Returns details of a specific employee by ID.
+o POST /api/employees - Adds a new employee.
+o PUT /api/employees/{id} - Updates an existing employee.
+o DELETE /api/employees/{id} - Deletes an employee.
+
+2. Describe how you would implement authentication and authorization in this
+API.
+3. Explain the concept of middleware in ASP.NET Core. Write a simple custom
+middleware that logs the details of each incoming HTTP request.
+Section 3: Authentication and Authorization
+1. Develop an authentication controller in ASP.NET Core that issues JWT
+tokens. The controller should have endpoints for user login and registration.
+2. Implement role-based authorization where there are two roles:
+o Admin - Can access all endpoints of the employees entity.
+o User - Can only list (GET) the employees entity.
+3. Provide an example of how to protect the endpoints in the employees
+controller using these roles.
+Section 4: Database Design and EF Core
+1. Design a SQL database schema for an employee management system. Include
+tables for employees, departments, and projects. Also include a table for
+position history to track the different positions an employee has held.
+2. Using Entity Framework Core, write the code to create the database context
+and entity configurations for the above schema.
+3. Write a LINQ query using EF Core to fetch all employees who are part of a
+specific department and are working on at least one project.
+Section 5: Performance and Optimization
+1. What are some common performance issues in .NET applications and how can
+you address them?
+2. Describe how you would profile and optimize a slow-running query in an
+ASP.NET Core application.
+
+Additional Requirements
+1. Ensure that your code adheres to SOLID principles.
+2. Implement at least one architectural pattern (e.g., Clean Architecture, Onion
+Architecture, etc.).
+3. Implement at least two design patterns (excluding the Singleton pattern).
+Examples include Factory, Repository, Strategy, Observer, etc.
+
+Submission:
+ Create a GitHub repository with your solutions and provide the link.
+ Ensure your code is well-documented and follows best practices.
+ Include a README file explaining how to set up and run your code.
