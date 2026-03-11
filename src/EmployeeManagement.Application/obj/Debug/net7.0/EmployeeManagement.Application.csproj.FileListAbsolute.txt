@@ -1,0 +1,15 @@
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\bin\Debug\net7.0\EmployeeManagement.Application.deps.json
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\bin\Debug\net7.0\EmployeeManagement.Application.dll
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\bin\Debug\net7.0\EmployeeManagement.Application.pdb
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\bin\Debug\net7.0\EmployeeManagement.Domain.dll
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\bin\Debug\net7.0\EmployeeManagement.Domain.pdb
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\obj\Debug\net7.0\EmployeeManagement.Application.csproj.AssemblyReference.cache
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\obj\Debug\net7.0\EmployeeManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\obj\Debug\net7.0\EmployeeManagement.Application.AssemblyInfoInputs.cache
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\obj\Debug\net7.0\EmployeeManagement.Application.AssemblyInfo.cs
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\obj\Debug\net7.0\EmployeeManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\obj\Debug\net7.0\Employee.16DA35CB.Up2Date
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\obj\Debug\net7.0\EmployeeManagement.Application.dll
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\obj\Debug\net7.0\refint\EmployeeManagement.Application.dll
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\obj\Debug\net7.0\EmployeeManagement.Application.pdb
+C:\Users\MSUser\source\repos\FalckTestDev\src\EmployeeManagement.Application\obj\Debug\net7.0\ref\EmployeeManagement.Application.dll

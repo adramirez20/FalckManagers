@@ -1,0 +1,6 @@
+{
+  "EmployeeManagement.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSUser\\source\\repos\\FalckTestDev\\src\\EmployeeManagement.API",
+  "EmployeeManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSUser\\source\\repos\\FalckTestDev\\src\\EmployeeManagement.Application",
+  "EmployeeManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSUser\\source\\repos\\FalckTestDev\\src\\EmployeeManagement.Domain",
+  "EmployeeManagement.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\MSUser\\source\\repos\\FalckTestDev\\src\\EmployeeManagement.Infrastructure"
+}

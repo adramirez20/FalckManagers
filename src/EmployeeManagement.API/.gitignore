@@ -1,0 +1,6 @@
+bin/
+obj/
+appsettings.*.json.user
+
+# EF Migrations
+src/**/Migrations
