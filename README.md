@@ -39,3 +39,39 @@ POST /api/employees – Creates a new employee (Admin role only).
 PUT /api/employees/{id} – Updates an employee's information (Admin role only).
 
 DELETE /api/employees/{id} – Deletes an employee (Admin role only).
+
+
+Login et token token
+{
+  "username": "admin",
+  "password": "Admin123!"
+}
+
+Add employye
+{
+  "name": "Ana",
+  "currentPosition": 1,
+  "salary": 4000,
+  "departmentId": 1
+}
+Position
+•	0 → nivel inicial / junior
+•	1 → nivel intermedio
+•	2 → seniorLogin et token token
+{
+  "username": "admin",
+  "password": "Admin123!"
+}
+
+Add employye
+{
+  "name": "Ana",
+  "currentPosition": 1,
+  "salary": 4000,
+  "departmentId": 1
+}
+Position
+•	0 → nivel inicial / junior
+•	1 → nivel intermedio
+•	2 → senior
+
